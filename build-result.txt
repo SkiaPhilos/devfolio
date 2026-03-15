@@ -1,0 +1,10 @@
+﻿[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+node.exe : memory allocation of 16106127360 bytes failed
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (memory allocati...60 bytes failed 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
